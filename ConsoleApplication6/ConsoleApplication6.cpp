@@ -4,8 +4,6 @@ using namespace std;
 int main()
 {
 	double x;
-	x = 5;
-
 	double z1;
 	double z2;
 	cout << "x = ";
